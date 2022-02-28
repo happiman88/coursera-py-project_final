@@ -1,6 +1,4 @@
-"""
-Definition of translator functions
-"""
+###Definition of translator functions###
 
 import os
 from ibm_watson import LanguageTranslatorV3
